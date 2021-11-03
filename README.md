@@ -26,7 +26,7 @@
 #### 米国の国際線航空機利用者数を予測 (データの終わりから12ヶ月分)する。
 
 - AirPassengerというデータ (1949年から1960年までの月次値)を用います
-  - https://github.com/MediaNetworkSociology2020/2020/blob/master/AirPassenger.csv
+  - https://github.com/MediaNetworkSociology2021/2021/blob/master/AirPassenger.csv
 
 - どんな手法、プログラミング言語、ライブラリを使用してもよい
   - 「時系列分析」、「AirPassenger」などで検索すると、関連するサイトや書籍が見つかると思います
